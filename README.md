@@ -79,8 +79,8 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/diplom.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/diplom.png)
-[<img src="/recommendation.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/recommendation.png)
+[<img src="/marat_nasretdinov_certificate_139_hours_ru.jpg" width="280px" hspace="10px" alt="Сертификат QA studio»">](https://raw.githubusercontent.com/maratnasretdinov/maratnasretdinov/refs/heads/main/marat_nasretdinov_certificate_139_hours_ru.jpg)
+[<img src="/Насретдинов%20Марат.jpg" width="280px" hspace="10px" alt="Сертификат SkillFactory»">](https://raw.githubusercontent.com/maratnasretdinov/maratnasretdinov/refs/heads/main/Насретдинов%20Марат.jpg)
 
 <br>
 <br>
